@@ -1,0 +1,18 @@
+{
+  "name": "custom-calender",
+  "version": "0.1.0",
+  "description": "This custom calendar is for my own learning purpose. I've used following blog to implement it. https://blog.flowandform.agency/create-a-custom-calendar-in-react-3df1bfd0b728",
+  "private": true,
+  "dependencies": {
+    "date-fns": "^1.29.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
